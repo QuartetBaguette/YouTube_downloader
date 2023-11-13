@@ -7,7 +7,7 @@ To use:
 3. Run the python script
 4. Fill in desired YouTube link and hit enter
 
-The file will be saved to your downloads folder, it will look for the hoghest quality video it can find.
+The file will be saved to your downloads folder, it will look for the highest quality video it can find.
 
 Only works on windows, not hard to change to other operating systems
 
